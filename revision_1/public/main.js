@@ -27,8 +27,8 @@
 // }
 
 // 5. Créer un programme qui renvoi ce que l'utilisateur rentre d'abord un minuscule (meme si il l'écrit en majuscule), puis la même chose en majuscule (meme si il l'écrit en minuscule), puis  avec la première lettre en majuscule et le reste en minuscule puis avec la premiere en minuscule et le reste en majuscule(toujours prompt sans boucle)
-let prenom = prompt("prénom?");
-alert(prenom.toLowerCase());
-alert(prenom.toUpperCase());
-alert((prenom.charAt(0).toUpperCase()) + (prenom.substring(1).toLowerCase()));
-alert((prenom.charAt(0).toLowerCase()) + (prenom.substring(1).toUpperCase())) 
+// let prenom = prompt("prénom?");
+// alert(prenom.toLowerCase());
+// alert(prenom.toUpperCase());
+// alert((prenom.charAt(0).toUpperCase()) + (prenom.substring(1).toLowerCase()));
+// alert((prenom.charAt(0).toLowerCase()) + (prenom.substring(1).toUpperCase())) 
