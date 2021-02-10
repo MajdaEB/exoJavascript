@@ -9,6 +9,10 @@ prenom.forEach((element) => console.log(element.substring(1, 2)));
 // 5.
 prenom.forEach((element) => console.log(element.substring(1, 2) + element));
 // 6.
-if (prenom.indexOf == 2) {
-    console.log(prenom);
-}
+
+// prenom.forEach((element,index) => {
+// if(prenom.indexOf(element) % 2 == 0) {
+//     if(index%2 == 0){
+//         console.log(element)
+//     }
+// };
